@@ -1,0 +1,29 @@
+{
+	"MainInfo": {
+        "latitude": 0,
+		"longitude" : 0
+	},
+    "cart": {
+      "1": {
+        "use": 0,
+		"Buyed": 0,
+        "latitude": 0,
+		"longitude" : 0
+      },
+      "2": {
+        "use": 0,
+		"Buyed": 0,
+        "latitude": 0,
+		"longitude" : 0
+      }
+    },
+
+    "Item":{
+        "Grape":{
+            "price" : 1000
+        },
+        "Mushroom":{
+            "price" : 2000
+        }
+    }
+}
